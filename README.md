@@ -28,6 +28,8 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 - [Hello WebXR](https://mixedreality.mozilla.org/hello-webxr/) - Made to commemorate the release of the WebXR 1.0 API, showcases just a bit of what's possible with WebXR.
 - [Moonrider](https://moonrider.xyz/) - A rhythm game built by Supermedium similar to Beat Saber.
 - [Dudes!](https://dudes.gatunes.com/) - A 3D voxel engine built by [Daniel Esteban](https://github.com/danielesteban) with three.js and C compiled to WASM. It features WebXR support, physics, pathfinding, a multiplayer-enabled VR sculpting mode with the ability to import/export creations, and more.
+- [Meows Freaky Fishstick Factory](https://www.nxtwebxr.com/fishstickfactory/) - A mixed reality rage game by Morten Haulik: you are a cat on a fish stick conveyor belt, swatting the weird fish sticks before your boss sees.
+- [die Hände](https://www.nxtwebxr.com/diehaende/) - A mixed reality experience by NXT/WebXR played with your bare hands: a dead hand under glass copies yours, until it wants to play you.
 
 ## Art
 
@@ -71,6 +73,7 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 
 - [2WSZ](https://2wsz.com/) - An aggregator for WebXR content featuring ratings, a recommendation system, and both English and Korean language support.
 - [Construct Arcade](https://constructarcade.com/) - A curated hub of WebXR games, with games from both outside developers and in-house developers at Vhite Rabbit.
+- [NXT/WebXR](https://www.nxtwebxr.com/) - A free catalogue of WebXR games and experiences for Meta Quest and Pico, browsed as a feed of 3D trailers in your own room, in English and Japanese.
 - [XR Swim](https://xrswim.com/) - An aggregator site for both WebXR and Web3 content.
 - [XRSites](https://xrsites.com/) - An aggregator for WebXR games and experiences.
 
